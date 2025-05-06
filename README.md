@@ -14,8 +14,8 @@ Attempted to merge feature/add-content into master, resulting in a merge conflic
 ![Conflict](conflicts.png)
 
 ### Screenshot of Merged:
-!(Pull request merged successfully](resolve.png)
-!(Graph)[graph.png)
+![Pull request merged successfully](resolve.png)
+![Graph](graph.png)
 
 ### Resolving the Merge Conflict:
 Upon attempting to merge feature/add-content into master, Git identified a conflict in the HTML file, as both branches modified the same lines.
