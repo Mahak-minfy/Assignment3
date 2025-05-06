@@ -1,11 +1,11 @@
-# Steps Taken:
+### Steps Taken:
 Created a new Git repository and set up the master branch.
-Created feature/update-styling branch from master.
-Made changes in feature/update-styling branch.
-Committed change in branch.
-Created feature/add-content branch from master.
-Made changes in feature/add-content branch.
-Commited change in branch.
+Created the feature/update-styling branch from the master.
+Made changes in the feature/update-styling branch.
+Committed changes in the feature/update-styling branch.
+Created the feature/add-content branch from master.
+Made changes in the feature/add-content branch.
+Committed changes in the feature/add-content branch.
 Opened pull requests for both branches.
 Merged feature/update-styling into master.
 Attempted to merge feature/add-content into master, resulting in a merge conflict.
