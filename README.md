@@ -17,13 +17,12 @@
 ### Screenshot of Merged:
 ![Pull request merged successfully](resolve.png)
 
-### Resolving the Merge Conflict:
-Upon attempting to merge feature/add-content into master, Git identified a conflict in the HTML file, as both branches modified the same lines.
-
-Steps to Resolve:
-1.Ran git status to list files with conflicts.
-2.Opened the conflicted HTML file to examine the conflicting changes.
-3.Manually edited the file to integrate both sets of changes, ensuring the content and styling were both preserved.
-4.Used git add <file> to stage the resolved file.
-5.Committed the merge with a message indicating the resolution.
-6.Pushed the updated master branch to the remote repository.
+### Resolving the Merge Conflict
+Upon attempting to merge `feature/add-content` into `master`, Git identified a conflict in the HTML file, as both branches modified the same lines.
+**Steps to Resolve:**
+1. Ran `git status` to list files with conflicts.  
+2. Opened the conflicted HTML file to examine the conflicting changes.  
+3. Manually edited the file to integrate both sets of changes, ensuring the content and styling were both preserved.  
+4. Used `git add <file>` to stage the resolved file.  
+5. Committed the merge with a message indicating the resolution.  
+6. Pushed the updated `master` branch to the remote repository.  
