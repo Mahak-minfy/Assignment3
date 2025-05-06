@@ -1,14 +1,15 @@
 ### Steps Taken:
-Created a new Git repository and set up the master branch.
-Created the feature/update-styling branch from the master.
-Made changes in the feature/update-styling branch.
-Committed changes in the feature/update-styling branch.
-Created the feature/add-content branch from master.
-Made changes in the feature/add-content branch.
-Committed changes in the feature/add-content branch.
-Opened pull requests for both branches.
-Merged feature/update-styling into master.
-Attempted to merge feature/add-content into master, resulting in a merge conflict.
+1. Created a new Git repository and set up the master branch.  
+2. Created the `feature/update-styling` branch from the master.  
+3. Made changes in the `feature/update-styling` branch.  
+4. Committed changes in the `feature/update-styling` branch.  
+5. Created the `feature/add-content` branch from master.  
+6. Made changes in the `feature/add-content` branch.  
+7. Committed changes in the `feature/add-content` branch.  
+8. Opened pull requests for both branches.  
+9. Merged `feature/update-styling` into master.  
+10. Attempted to merge `feature/add-content` into master, resulting in a merge conflict.  
+
 
 ### Screenshot of conflict:
 ![Conflict](conflicts.png)
